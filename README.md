@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋<br/> </h1> 
 
-<!--
-**MauriVass/MauriVass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student with a strong passion for data and artificial intelligence. During my spare time I devour books and expand my horizons by studying always new things. I am fascinated by the world of productivity and investements. Well, I wish I have 48 hours per day, but I have to settle for 24! 
 
-Here are some ideas to get you started:
+🎓Academic backgroud: 
+* Master of Science in Data Science and Engineering at `Politenico di Torino` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Academic repositories: 
+* [`MachineLearning4IoTCourse`](https://github.com/MauriVass/MachineLearning4IoTCourse)
+
+🔨 Personal projects: 
+* [`ReinforcementLearning`](https://github.com/MauriVass/ReinforcementLearning)
+
+🏆 Challenges: 
+* [`PolitoChallenge`] :construction_worker:
+
+📫 Contacts:
+* [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-vassallo-717178138/)
