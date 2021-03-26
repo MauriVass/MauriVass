@@ -4,6 +4,8 @@ I am a Data Science student with a strong passion for data and science. During m
 
 🎓Academic backgroud: 
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
+* Double Degree programme in Computer Science at `Tongji University (同济大学)` 
+* Bachelor's Degrees in Computer Science at `Politenico di Torino` 
 
 📚 Academic repositories: 
 * [`MachineLearning4IoT_HWs`](https://github.com/MauriVass/MachineLearning4IoT_HWs)
