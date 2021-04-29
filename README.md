@@ -12,12 +12,13 @@ I am a Data Science student with a strong passion for data and science. During m
 * [`MachineLearning4IoTCourse`](https://github.com/MauriVass/MachineLearning4IoTCourse)
 * [`ComputerAidedSimulationsCourse`](https://github.com/MauriVass/ComputerAidedSimulationsCourse)
 * [`FirstPersonActionRecognition`](https://github.com/MauriVass/FirstPersonActionRecognition)
-* [`VinhoVerdeDatasetAnalysis`](https://github.com/MauriVass/VinhoVerdeDatasetAnalysis)
 * [`MachineLearning-DeepLearningCourse`](https://github.com/MauriVass/MachineLearning-DeepLearningCourse)
+* [`VinhoVerdeDatasetAnalysis`](https://github.com/MauriVass/VinhoVerdeDatasetAnalysis)
 * [`DatascienceExam`](https://github.com/MauriVass/DataScienceCourseExam)
 * [`STAIRWAY`](https://github.com/MauriVass/STAIRWAY)
 
 🔨 Personal projects: 
+* [`ComplexUpper-LimbMovements`](https://github.com/MauriVass/ComplexUpper-LimbMovements)
 * [`ReinforcementLearning`](https://github.com/MauriVass/ReinforcementLearning)
 * [`MonkeyProblem`](https://github.com/MauriVass/MonkeyProblem)
 * [`ChaosTheoryExperiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
