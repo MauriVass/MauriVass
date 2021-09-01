@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋<br/> </h1> 
 
-I am a Data Science student with a strong passion for data and science. During my spare time I devour books and expand my horizons by studying always new things. I am fascinated by the world of productivity and investements. Well, I wish I had 48 hours per day, but I have to settle for 24! 
+I am a Data Science student with a strong passion for data and science. During my spare time I devour books and expand my horizons by studying always new things. I am fascinated by the world of productivity and investements. <br/>
+Well, I wish I had 48 hours per day, but I have to settle for 24! 
 
 🎓Academic backgroud: 
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
@@ -24,8 +25,7 @@ I am a Data Science student with a strong passion for data and science. During m
 * [`ChaosTheoryExperiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
 * [`EvolutionarySystem`](https://github.com/MauriVass/EvolutionarySystem)
 
-🏆 Challenges: 
-* [`PolitoChallenge`] :construction_worker:
+🏆 Challenges:
 * [`DataPrivacyVR`](https://github.com/MauriVass/DataPrivacyVR)
 
 📫 Contacts:
