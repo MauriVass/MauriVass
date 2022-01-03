@@ -26,8 +26,8 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * [`EvolutionarySystem`](https://github.com/MauriVass/EvolutionarySystem)
 
 🏆 Challenges:
-* [`DataPrivacyVR`](https://github.com/MauriVass/DataPrivacyVR)
 * [`VGen-challenge-AI-NLP`](https://github.com/MauriVass/VGen-challenge-AI-NLP)
+* [`DataPrivacyVR`](https://github.com/MauriVass/DataPrivacyVR)
 
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-vassallo-717178138/)
