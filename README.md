@@ -9,6 +9,7 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * Bachelor's Degrees in Computer Science at `Politenico di Torino` 
 
 📚 Academic repositories: 
+* [`CollisionAvoidanceSystem`](https://github.com/MauriVass/CollisionAvoidanceSystem)
 * [`MachineLearning4IoT_HWs`](https://github.com/MauriVass/MachineLearning4IoT_HWs)
 * [`MachineLearning4IoTCourse`](https://github.com/MauriVass/MachineLearning4IoTCourse)
 * [`ComputerAidedSimulationsCourse`](https://github.com/MauriVass/ComputerAidedSimulationsCourse)
