@@ -32,3 +32,5 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-vassallo-717178138/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurivass&show_icons=true)
