@@ -25,6 +25,7 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * [`MonkeyProblem`](https://github.com/MauriVass/MonkeyProblem)
 * [`ChaosTheoryExperiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
 * [`EvolutionarySystem`](https://github.com/MauriVass/EvolutionarySystem)
+* [`ProceduralMeshGeneration`](https://github.com/MauriVass/ProceduralMeshGeneration)
 
 🏆 Challenges:
 * [`VGen-challenge-AI-NLP`](https://github.com/MauriVass/VGen-challenge-AI-NLP)
