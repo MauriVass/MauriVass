@@ -4,6 +4,7 @@ I am a Data Science student with a strong passion for data and science. During m
 Well, I wish I had 48 hours per day, but I have to settle for 24! 
 
 🎓Academic backgroud: 
+* Master Thesis at `Liège University` 
 * Master of Science in Data Science and Engineering at `Politenico di Torino` 
 * Double Degree programme in Computer Science at `Tongji University (同济大学)` 
 * Bachelor's Degrees in Computer Science at `Politenico di Torino` 
