@@ -31,6 +31,7 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * [`ProceduralMeshGeneration`](https://github.com/MauriVass/ProceduralMeshGeneration)
 
 🏆 Challenges:
+* [`TBA`](https://github.com/MauriVass/)
 * [`VGen-challenge-AI-NLP`](https://github.com/MauriVass/VGen-challenge-AI-NLP)
 * [`DataPrivacyVR`](https://github.com/MauriVass/DataPrivacyVR)
 
