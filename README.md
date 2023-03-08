@@ -13,28 +13,28 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 📚 Academic repositories: 
 * [`Over Voltage Situations Forecast & Active Control in a Medium-Voltage Power Grid`](https://github.com/MauriVass/ThesisLiege)
 * [`Collision Avoidance System with RL`](https://github.com/MauriVass/Collision-Avoidance-System-with-RL)
-* [`MachineLearning4IoT_HWs`](https://github.com/MauriVass/MachineLearning4IoT_HWs)
-* [`MachineLearning4IoTCourse`](https://github.com/MauriVass/MachineLearning4IoTCourse)
-* [`ComputerAidedSimulationsCourse`](https://github.com/MauriVass/ComputerAidedSimulationsCourse)
-* [`FirstPersonActionRecognition`](https://github.com/MauriVass/FirstPersonActionRecognition)
-* [`MachineLearning-DeepLearningCourse`](https://github.com/MauriVass/MachineLearning-DeepLearningCourse)
-* [`VinhoVerdeDatasetAnalysis`](https://github.com/MauriVass/VinhoVerdeDatasetAnalysis)
-* [`DatascienceExam`](https://github.com/MauriVass/DataScienceCourseExam)
+* [`Machine Learning  for IoT HWs`](https://github.com/MauriVass/MachineLearning4IoT_HWs)
+* [`Machine Learning for IoT Course`](https://github.com/MauriVass/MachineLearning4IoTCourse)
+* [`Computer Aided Simulations Course`](https://github.com/MauriVass/ComputerAidedSimulationsCourse)
+* [`First-Person Action Recognition`](https://github.com/MauriVass/FirstPersonActionRecognition)
+* [`Machine Learning Deep Learning Course`](https://github.com/MauriVass/MachineLearning-DeepLearningCourse)
+* [`Vinho Verde Dataset Analysis`](https://github.com/MauriVass/VinhoVerdeDatasetAnalysis)
+* [`Datascience Exam`](https://github.com/MauriVass/DataScienceCourseExam)
 * [`STAIRWAY`](https://github.com/MauriVass/STAIRWAY)
 
 🔨 Personal projects: 
-* [`ComplexUpper-LimbMovements`](https://github.com/MauriVass/ComplexUpper-LimbMovements)
-* [`ReinforcementLearning`](https://github.com/MauriVass/ReinforcementLearning)
-* [`MonkeyProblem`](https://github.com/MauriVass/MonkeyProblem)
-* [`ChaosTheoryExperiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
-* [`EvolutionarySystem`](https://github.com/MauriVass/EvolutionarySystem)
-* [`ProceduralMeshGeneration`](https://github.com/MauriVass/ProceduralMeshGeneration)
+* [`Comple xUpper-Limb Movements`](https://github.com/MauriVass/ComplexUpper-LimbMovements)
+* [`Reinforcement Learning`](https://github.com/MauriVass/ReinforcementLearning)
+* [`Monkey Problem`](https://github.com/MauriVass/MonkeyProblem)
+* [`Chaos Theory Experiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
+* [`Evolutionary System`](https://github.com/MauriVass/EvolutionarySystem)
+* [`Procedural Mesh Generation`](https://github.com/MauriVass/ProceduralMeshGeneration)
 
 🏆 Challenges:
 * [`Advent of Code 2022`](https://github.com/MauriVass/Advent-of-Code-2022)
 * [`Is a company profitable enough to be acquired?`](https://github.com/MauriVass/Is-a-company-profitable-enough-to-be-acquired-)
-* [`VGen-challenge-AI-NLP`](https://github.com/MauriVass/VGen-challenge-AI-NLP)
-* [`DataPrivacyVR`](https://github.com/MauriVass/DataPrivacyVR)
+* [`VGen Challenge AI NLP`](https://github.com/MauriVass/VGen-challenge-AI-NLP)
+* [`Data Privacy VR mini-game`](https://github.com/MauriVass/DataPrivacyVR)
 
 📫 Contacts:
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-vassallo-717178138/)
