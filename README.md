@@ -23,8 +23,8 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * [`STAIRWAY`](https://github.com/MauriVass/STAIRWAY)
 
 🔨 Personal projects: 
-* [`Comple xUpper-Limb Movements`](https://github.com/MauriVass/ComplexUpper-LimbMovements)
-* [`Reinforcement Learning`](https://github.com/MauriVass/ReinforcementLearning)
+* [`Complex Upper-Limb Movements`](https://github.com/MauriVass/ComplexUpper-LimbMovements)
+* [`Reinforcement Learning Maze`](https://github.com/MauriVass/ReinforcementLearning)
 * [`Monkey Problem`](https://github.com/MauriVass/MonkeyProblem)
 * [`Chaos Theory Experiment`](https://github.com/MauriVass/ChaosTheoryExperiment)
 * [`Evolutionary System`](https://github.com/MauriVass/EvolutionarySystem)
