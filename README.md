@@ -11,6 +11,7 @@ Well, I wish I had 48 hours per day, but I have to settle for 24!
 * Bachelor's Degrees in Computer Science at `Politenico di Torino` 
 
 📚 Academic repositories: 
+* [`Optimal TPI`](https://github.com/TPIproblem/OptimalTPI)
 * [`Over Voltage Situations Forecast & Active Control in a Medium-Voltage Power Grid`](https://github.com/MauriVass/ThesisLiege)
 * [`Collision Avoidance System with RL`](https://github.com/MauriVass/Collision-Avoidance-System-with-RL)
 * [`Machine Learning  for IoT HWs`](https://github.com/MauriVass/MachineLearning4IoT_HWs)
